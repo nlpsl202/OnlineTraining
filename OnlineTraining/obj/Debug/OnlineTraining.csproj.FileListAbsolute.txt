@@ -1,0 +1,1526 @@
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.csprojAssemblyReference.cache
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.csproj.CoreCompileInputs.cache
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ApplicationInsights.config
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\OnlineTraining.dll.config
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\OnlineTraining.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\OnlineTraining.pdb
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\csc.exe
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\csc.exe.config
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\csc.rsp
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\csi.exe
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\csi.exe.config
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\csi.rsp
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\System.AppContext.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\System.Console.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\System.IO.Compression.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\System.IO.FileSystem.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\System.IO.Pipes.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.AccessControl.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Claims.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\System.Threading.Thread.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\System.ValueTuple.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\System.Xml.XPath.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\vbc.exe
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\vbc.exe.config
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\vbc.rsp
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\VBCSCompiler.exe
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Antlr3.Runtime.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Web.Bootstrap.v18.2.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Web.v18.2.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Microsoft.AI.Web.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Microsoft.AI.WindowsServer.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Microsoft.ApplicationInsights.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Microsoft.Web.Infrastructure.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Newtonsoft.Json.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Diagnostics.DiagnosticSource.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Web.Optimization.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\WebGrease.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Data.v18.2.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxRichEdit.v18.2.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxSpreadsheet.v18.2.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Spreadsheet.v18.2.Core.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxScheduler.v18.2.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.XtraScheduler.v18.2.Core.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Printing.v18.2.Core.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Web.Resources.v18.2.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Office.v18.2.Core.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.RichEdit.v18.2.Core.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxSpellChecker.v18.2.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.SpellChecker.v18.2.Core.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.XtraCharts.v18.2.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Charts.v18.2.Core.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.DataAccess.v18.2.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Sparkline.v18.2.Core.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Images.v18.2.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Pdf.v18.2.Core.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Xpo.v18.2.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.CodeParser.v18.2.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Web.Bootstrap.v18.2.xml
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Web.v18.2.xml
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Web.Optimization.xml
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Newtonsoft.Json.xml
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Antlr3.Runtime.pdb
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Diagnostics.DiagnosticSource.xml
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Microsoft.AI.WindowsServer.xml
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Microsoft.AI.Web.xml
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Data.v18.2.xml
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxRichEdit.v18.2.xml
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxSpreadsheet.v18.2.xml
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Spreadsheet.v18.2.Core.xml
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxScheduler.v18.2.xml
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.XtraScheduler.v18.2.Core.xml
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Printing.v18.2.Core.xml
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Office.v18.2.Core.xml
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.RichEdit.v18.2.Core.xml
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxSpellChecker.v18.2.xml
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.SpellChecker.v18.2.Core.xml
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.XtraCharts.v18.2.xml
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.DataAccess.v18.2.xml
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Sparkline.v18.2.Core.xml
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Pdf.v18.2.Core.xml
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Xpo.v18.2.xml
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\zh-Hant\System.Web.Optimization.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\zh-Hant\Microsoft.AspNet.FriendlyUrls.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\de\DevExpress.Data.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\es\DevExpress.Data.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Data.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Data.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\de\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\es\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\de\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\es\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ja\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ru\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\de\DevExpress.Printing.v18.2.Core.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\es\DevExpress.Printing.v18.2.Core.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Printing.v18.2.Core.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Printing.v18.2.Core.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.Resources.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.Resources.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.Resources.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.Resources.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\de\DevExpress.Office.v18.2.Core.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\es\DevExpress.Office.v18.2.Core.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Office.v18.2.Core.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Office.v18.2.Core.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\de\DevExpress.XtraCharts.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\es\DevExpress.XtraCharts.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ja\DevExpress.XtraCharts.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ru\DevExpress.XtraCharts.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\de\DevExpress.DataAccess.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\es\DevExpress.DataAccess.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ja\DevExpress.DataAccess.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ru\DevExpress.DataAccess.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\de\DevExpress.Pdf.v18.2.Core.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\es\DevExpress.Pdf.v18.2.Core.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\de\DevExpress.Xpo.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\es\DevExpress.Xpo.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Xpo.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Xpo.v18.2.resources.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.csproj.CopyComplete
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.pdb
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.dll.licenses
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Microsoft.Win32.Primitives.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\netstandard.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.AppContext.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Collections.Concurrent.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Collections.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Collections.NonGeneric.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Collections.Specialized.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.ComponentModel.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.ComponentModel.EventBasedAsync.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.ComponentModel.Primitives.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.ComponentModel.TypeConverter.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Console.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Data.Common.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Diagnostics.Contracts.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Diagnostics.Debug.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Diagnostics.FileVersionInfo.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Diagnostics.Process.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Diagnostics.StackTrace.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Diagnostics.TextWriterTraceListener.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Diagnostics.Tools.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Diagnostics.TraceSource.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Diagnostics.Tracing.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Drawing.Primitives.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Dynamic.Runtime.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Globalization.Calendars.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Globalization.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Globalization.Extensions.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.IO.Compression.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.IO.Compression.ZipFile.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.IO.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.IO.FileSystem.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.IO.FileSystem.DriveInfo.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.IO.FileSystem.Primitives.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.IO.FileSystem.Watcher.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.IO.IsolatedStorage.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.IO.MemoryMappedFiles.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.IO.Pipes.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.IO.UnmanagedMemoryStream.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Linq.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Linq.Expressions.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Linq.Parallel.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Linq.Queryable.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Net.Http.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Net.NameResolution.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Net.NetworkInformation.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Net.Ping.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Net.Primitives.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Net.Requests.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Net.Security.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Net.Sockets.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Net.WebHeaderCollection.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Net.WebSockets.Client.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Net.WebSockets.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.ObjectModel.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Reflection.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Reflection.Extensions.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Reflection.Primitives.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Resources.Reader.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Resources.ResourceManager.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Resources.Writer.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Runtime.CompilerServices.VisualC.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Runtime.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Runtime.Extensions.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Runtime.Handles.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Runtime.InteropServices.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Runtime.Numerics.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Runtime.Serialization.Formatters.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Runtime.Serialization.Json.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Runtime.Serialization.Primitives.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Runtime.Serialization.Xml.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Security.Claims.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Security.Cryptography.Algorithms.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Security.Cryptography.Csp.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Security.Cryptography.Encoding.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Security.Cryptography.Primitives.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Security.Cryptography.X509Certificates.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Security.Principal.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Security.SecureString.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Text.Encoding.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Text.Encoding.Extensions.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Text.RegularExpressions.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Threading.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Threading.Overlapped.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Threading.Tasks.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Threading.Tasks.Parallel.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Threading.Thread.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Threading.ThreadPool.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Threading.Timer.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.ValueTuple.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Xml.ReaderWriter.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Xml.XDocument.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Xml.XmlDocument.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Xml.XmlSerializer.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Xml.XPath.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\System.Xml.XPath.XDocument.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Mobile.Core.v18.2.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\DevExpress.Mobile.Grid.v18.2.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Core.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Platform.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Xaml.dll
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Core.pdb
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Core.xml
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Xaml.pdb
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Xaml.xml
+c:\users\jeffmike\source\repos\OnlineTraining\OnlineTraining\obj\Debug\XamlC.stamp
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ApplicationInsights.config
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\OnlineTraining.dll.config
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\OnlineTraining.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\OnlineTraining.pdb
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\csc.exe
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\csc.exe.config
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\csc.rsp
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\csi.exe
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\csi.exe.config
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\csi.rsp
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.AppContext.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Console.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\vbc.exe
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\vbc.exe.config
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\vbc.rsp
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\netstandard.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.AppContext.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Collections.Concurrent.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Collections.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Collections.NonGeneric.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Collections.Specialized.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.ComponentModel.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.ComponentModel.Primitives.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Console.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Data.Common.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Diagnostics.Contracts.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Diagnostics.Debug.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Diagnostics.Process.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Diagnostics.Tools.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Diagnostics.Tracing.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Drawing.Primitives.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Dynamic.Runtime.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Globalization.Calendars.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Globalization.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Globalization.Extensions.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.IO.Compression.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.IO.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.IO.FileSystem.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.IO.IsolatedStorage.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.IO.Pipes.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Linq.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Linq.Expressions.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Linq.Parallel.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Linq.Queryable.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Net.Http.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Net.NameResolution.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Net.NetworkInformation.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Net.Ping.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Net.Primitives.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Net.Requests.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Net.Security.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Net.Sockets.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Net.WebSockets.Client.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Net.WebSockets.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.ObjectModel.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Reflection.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Reflection.Extensions.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Reflection.Primitives.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Resources.Reader.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Resources.ResourceManager.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Resources.Writer.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Runtime.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Runtime.Extensions.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Runtime.Handles.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Runtime.InteropServices.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Runtime.Numerics.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Security.Claims.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Security.Principal.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Security.SecureString.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Text.Encoding.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Text.RegularExpressions.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Threading.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Threading.Overlapped.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Threading.Tasks.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Threading.Thread.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Threading.ThreadPool.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Threading.Timer.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.ValueTuple.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Xml.ReaderWriter.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Xml.XDocument.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Xml.XmlDocument.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Xml.XmlSerializer.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Xml.XPath.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Antlr3.Runtime.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Mobile.Core.v18.2.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Mobile.Grid.v18.2.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Web.Bootstrap.v18.2.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Web.v18.2.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Microsoft.AI.Web.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Newtonsoft.Json.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Web.Optimization.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\WebGrease.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Core.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Platform.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Xaml.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Data.v18.2.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxRichEdit.v18.2.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxSpreadsheet.v18.2.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Spreadsheet.v18.2.Core.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxScheduler.v18.2.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.XtraScheduler.v18.2.Core.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Printing.v18.2.Core.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Web.Resources.v18.2.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Office.v18.2.Core.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxSpellChecker.v18.2.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.SpellChecker.v18.2.Core.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.XtraCharts.v18.2.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Charts.v18.2.Core.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.DataAccess.v18.2.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Images.v18.2.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Xpo.v18.2.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.CodeParser.v18.2.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Web.Bootstrap.v18.2.xml
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Web.v18.2.xml
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Web.Optimization.xml
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Newtonsoft.Json.xml
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Antlr3.Runtime.pdb
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Core.pdb
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Core.xml
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Xaml.pdb
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Xaml.xml
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Microsoft.AI.Web.xml
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Data.v18.2.xml
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxRichEdit.v18.2.xml
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxSpreadsheet.v18.2.xml
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Spreadsheet.v18.2.Core.xml
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxScheduler.v18.2.xml
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.XtraScheduler.v18.2.Core.xml
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Printing.v18.2.Core.xml
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Office.v18.2.Core.xml
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxSpellChecker.v18.2.xml
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.SpellChecker.v18.2.Core.xml
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.XtraCharts.v18.2.xml
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.DataAccess.v18.2.xml
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Xpo.v18.2.xml
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\zh-Hant\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.Resources.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.Resources.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.Resources.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.Resources.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.csprojAssemblyReference.cache
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.dll.licenses
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.csproj.CoreCompileInputs.cache
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\obj\Debug\XamlC.stamp
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.csproj.CopyComplete
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.dll
+C:\Users\Jeff Peng\Desktop\0408\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.pdb
+E:\0408\OnlineTraining\OnlineTraining\bin\ApplicationInsights.config
+E:\0408\OnlineTraining\OnlineTraining\bin\OnlineTraining.dll.config
+E:\0408\OnlineTraining\OnlineTraining\bin\OnlineTraining.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\OnlineTraining.pdb
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\csc.exe
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\csc.exe.config
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\csc.rsp
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\csi.exe
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\csi.exe.config
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\csi.rsp
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.AppContext.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Collections.Immutable.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Console.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Diagnostics.Process.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.IO.Compression.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.IO.FileSystem.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.IO.Pipes.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Reflection.Metadata.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.AccessControl.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Claims.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Principal.Windows.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Threading.Thread.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.ValueTuple.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Xml.XmlDocument.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Xml.XPath.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\vbc.exe
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\vbc.exe.config
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\vbc.rsp
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\VBCSCompiler.exe
+E:\0408\OnlineTraining\OnlineTraining\bin\roslyn\VBCSCompiler.exe.config
+E:\0408\OnlineTraining\OnlineTraining\bin\Microsoft.Win32.Primitives.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\netstandard.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.AppContext.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Collections.Concurrent.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Collections.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Collections.NonGeneric.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Collections.Specialized.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.ComponentModel.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.ComponentModel.EventBasedAsync.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.ComponentModel.Primitives.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.ComponentModel.TypeConverter.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Console.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Data.Common.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Diagnostics.Contracts.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Diagnostics.Debug.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Diagnostics.FileVersionInfo.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Diagnostics.Process.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Diagnostics.StackTrace.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Diagnostics.Tools.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Diagnostics.TraceSource.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Diagnostics.Tracing.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Drawing.Primitives.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Dynamic.Runtime.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Globalization.Calendars.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Globalization.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Globalization.Extensions.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.IO.Compression.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.IO.Compression.ZipFile.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.IO.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.IO.FileSystem.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.IO.FileSystem.DriveInfo.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.IO.FileSystem.Primitives.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.IO.FileSystem.Watcher.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.IO.IsolatedStorage.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.IO.MemoryMappedFiles.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.IO.Pipes.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.IO.UnmanagedMemoryStream.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Linq.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Linq.Expressions.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Linq.Parallel.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Linq.Queryable.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Net.Http.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Net.NameResolution.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Net.NetworkInformation.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Net.Ping.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Net.Primitives.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Net.Requests.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Net.Security.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Net.Sockets.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Net.WebHeaderCollection.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Net.WebSockets.Client.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Net.WebSockets.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.ObjectModel.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Reflection.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Reflection.Extensions.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Reflection.Primitives.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Resources.Reader.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Resources.ResourceManager.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Resources.Writer.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Runtime.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Runtime.Extensions.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Runtime.Handles.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Runtime.InteropServices.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Runtime.Numerics.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Runtime.Serialization.Formatters.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Runtime.Serialization.Json.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Runtime.Serialization.Primitives.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Runtime.Serialization.Xml.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Security.Claims.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Security.Cryptography.Algorithms.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Security.Cryptography.Csp.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Security.Cryptography.Encoding.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Security.Cryptography.Primitives.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Security.Cryptography.X509Certificates.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Security.Principal.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Security.SecureString.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Text.Encoding.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Text.Encoding.Extensions.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Text.RegularExpressions.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Threading.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Threading.Overlapped.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Threading.Tasks.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Threading.Tasks.Parallel.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Threading.Thread.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Threading.ThreadPool.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Threading.Timer.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.ValueTuple.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Xml.ReaderWriter.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Xml.XDocument.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Xml.XmlDocument.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Xml.XmlSerializer.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Xml.XPath.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Xml.XPath.XDocument.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\Antlr3.Runtime.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\AspNet.ScriptManager.bootstrap.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\AspNet.ScriptManager.jQuery.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Data.v18.2.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Mobile.Core.v18.2.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Mobile.Grid.v18.2.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Printing.v18.2.Core.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.RichEdit.v18.2.Core.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Web.Bootstrap.v18.2.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Web.Resources.v18.2.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Web.v18.2.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\Microsoft.AI.Agent.Intercept.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\Microsoft.AI.DependencyCollector.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\Microsoft.AI.Web.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\Microsoft.AI.WindowsServer.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\Microsoft.ApplicationInsights.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\Microsoft.ScriptManager.WebForms.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\Microsoft.Web.Infrastructure.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\Newtonsoft.Json.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Diagnostics.DiagnosticSource.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Web.Optimization.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\WebGrease.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Core.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Platform.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Xaml.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Pdf.v18.2.Core.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Office.v18.2.Core.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Images.v18.2.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxRichEdit.v18.2.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxSpreadsheet.v18.2.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Spreadsheet.v18.2.Core.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxScheduler.v18.2.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.XtraScheduler.v18.2.Core.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxSpellChecker.v18.2.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.SpellChecker.v18.2.Core.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.XtraCharts.v18.2.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Charts.v18.2.Core.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.DataAccess.v18.2.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Sparkline.v18.2.Core.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Xpo.v18.2.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.CodeParser.v18.2.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Data.v18.2.xml
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Printing.v18.2.Core.xml
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.RichEdit.v18.2.Core.xml
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Web.Bootstrap.v18.2.xml
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Web.v18.2.xml
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Web.Optimization.xml
+E:\0408\OnlineTraining\OnlineTraining\bin\Newtonsoft.Json.xml
+E:\0408\OnlineTraining\OnlineTraining\bin\Antlr3.Runtime.pdb
+E:\0408\OnlineTraining\OnlineTraining\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\0408\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Core.pdb
+E:\0408\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Core.xml
+E:\0408\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Xaml.pdb
+E:\0408\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Xaml.xml
+E:\0408\OnlineTraining\OnlineTraining\bin\System.Diagnostics.DiagnosticSource.xml
+E:\0408\OnlineTraining\OnlineTraining\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\0408\OnlineTraining\OnlineTraining\bin\Microsoft.AI.DependencyCollector.xml
+E:\0408\OnlineTraining\OnlineTraining\bin\Microsoft.AI.WindowsServer.xml
+E:\0408\OnlineTraining\OnlineTraining\bin\Microsoft.AI.Web.xml
+E:\0408\OnlineTraining\OnlineTraining\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Pdf.v18.2.Core.xml
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Office.v18.2.Core.xml
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxRichEdit.v18.2.xml
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxSpreadsheet.v18.2.xml
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Spreadsheet.v18.2.Core.xml
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxScheduler.v18.2.xml
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.XtraScheduler.v18.2.Core.xml
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxSpellChecker.v18.2.xml
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.SpellChecker.v18.2.Core.xml
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.XtraCharts.v18.2.xml
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.DataAccess.v18.2.xml
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Sparkline.v18.2.Core.xml
+E:\0408\OnlineTraining\OnlineTraining\bin\DevExpress.Xpo.v18.2.xml
+E:\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.Data.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.Data.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Data.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Data.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.Printing.v18.2.Core.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.Printing.v18.2.Core.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Printing.v18.2.Core.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Printing.v18.2.Core.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.Resources.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.Resources.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.Resources.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.Resources.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\zh-Hant\System.Web.Optimization.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\zh-Hant\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.Office.v18.2.Core.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.Office.v18.2.Core.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Office.v18.2.Core.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Office.v18.2.Core.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.XtraCharts.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.XtraCharts.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.XtraCharts.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.XtraCharts.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.DataAccess.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.DataAccess.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.DataAccess.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.DataAccess.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\de\DevExpress.Xpo.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\es\DevExpress.Xpo.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Xpo.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Xpo.v18.2.resources.dll
+E:\0408\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.csprojAssemblyReference.cache
+E:\0408\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.dll.licenses
+E:\0408\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.csproj.CoreCompileInputs.cache
+E:\0408\OnlineTraining\OnlineTraining\obj\Debug\XamlC.stamp
+E:\0408\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.csproj.CopyComplete
+E:\0408\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.dll
+E:\0408\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.pdb
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ApplicationInsights.config
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\OnlineTraining.dll.config
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\OnlineTraining.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\OnlineTraining.pdb
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\csc.exe
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\csc.exe.config
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\csc.rsp
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\csi.exe
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\csi.exe.config
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\csi.rsp
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\System.AppContext.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\System.Console.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\System.IO.Compression.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\System.IO.Pipes.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Claims.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\System.Threading.Thread.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\System.ValueTuple.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\System.Xml.XPath.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\vbc.exe
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\vbc.exe.config
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\vbc.rsp
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\VBCSCompiler.exe
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Microsoft.Win32.Primitives.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\netstandard.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.AppContext.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Collections.Concurrent.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Collections.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Collections.NonGeneric.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Collections.Specialized.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.ComponentModel.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.ComponentModel.Primitives.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Console.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Data.Common.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Diagnostics.Contracts.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Diagnostics.Debug.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Diagnostics.Process.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Diagnostics.StackTrace.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Diagnostics.Tools.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Diagnostics.TraceSource.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Diagnostics.Tracing.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Drawing.Primitives.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Dynamic.Runtime.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Globalization.Calendars.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Globalization.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Globalization.Extensions.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.IO.Compression.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.IO.Compression.ZipFile.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.IO.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.IO.FileSystem.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.IO.IsolatedStorage.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.IO.Pipes.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Linq.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Linq.Expressions.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Linq.Parallel.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Linq.Queryable.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Net.Http.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Net.NameResolution.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Net.NetworkInformation.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Net.Ping.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Net.Primitives.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Net.Requests.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Net.Security.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Net.Sockets.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Net.WebHeaderCollection.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Net.WebSockets.Client.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Net.WebSockets.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.ObjectModel.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Reflection.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Reflection.Extensions.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Reflection.Primitives.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Resources.Reader.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Resources.ResourceManager.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Resources.Writer.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Runtime.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Runtime.Extensions.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Runtime.Handles.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Runtime.InteropServices.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Runtime.Numerics.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Runtime.Serialization.Json.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Security.Claims.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Security.Cryptography.Csp.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Security.Principal.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Security.SecureString.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Text.Encoding.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Text.Encoding.Extensions.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Text.RegularExpressions.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Threading.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Threading.Overlapped.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Threading.Tasks.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Threading.Thread.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Threading.ThreadPool.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Threading.Timer.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.ValueTuple.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Xml.ReaderWriter.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Xml.XDocument.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Xml.XmlDocument.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Xml.XmlSerializer.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Xml.XPath.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Xml.XPath.XDocument.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Antlr3.Runtime.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Data.v18.2.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Mobile.Core.v18.2.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Mobile.Grid.v18.2.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Printing.v18.2.Core.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Web.Bootstrap.v18.2.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Web.Resources.v18.2.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Web.v18.2.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Microsoft.AI.Web.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Microsoft.ApplicationInsights.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Newtonsoft.Json.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Web.Optimization.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\WebGrease.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Core.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Platform.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Xaml.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Office.v18.2.Core.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Images.v18.2.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxRichEdit.v18.2.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxSpreadsheet.v18.2.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Spreadsheet.v18.2.Core.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxScheduler.v18.2.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.XtraScheduler.v18.2.Core.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxSpellChecker.v18.2.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.SpellChecker.v18.2.Core.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.XtraCharts.v18.2.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Charts.v18.2.Core.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.DataAccess.v18.2.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Xpo.v18.2.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.CodeParser.v18.2.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Data.v18.2.xml
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Printing.v18.2.Core.xml
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Web.Bootstrap.v18.2.xml
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Web.v18.2.xml
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Web.Optimization.xml
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Newtonsoft.Json.xml
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Antlr3.Runtime.pdb
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Core.pdb
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Core.xml
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Xaml.pdb
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Xaml.xml
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Microsoft.AI.Web.xml
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Office.v18.2.Core.xml
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxRichEdit.v18.2.xml
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxSpreadsheet.v18.2.xml
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Spreadsheet.v18.2.Core.xml
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxScheduler.v18.2.xml
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.XtraScheduler.v18.2.Core.xml
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxSpellChecker.v18.2.xml
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.SpellChecker.v18.2.Core.xml
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.XtraCharts.v18.2.xml
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.DataAccess.v18.2.xml
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\DevExpress.Xpo.v18.2.xml
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.Resources.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.Resources.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.Resources.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.Resources.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\zh-Hant\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\de\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\es\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\de\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\es\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ja\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ru\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\de\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\es\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ja\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ru\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\de\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\es\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ja\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ru\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\de\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\es\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.csprojAssemblyReference.cache
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.dll.licenses
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.csproj.CoreCompileInputs.cache
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\obj\Debug\XamlC.stamp
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.csproj.CopyComplete
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.dll
+C:\Users\JeffMike\Desktop\0409\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.pdb
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ApplicationInsights.config
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\OnlineTraining.dll.config
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\OnlineTraining.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\OnlineTraining.pdb
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\csc.exe
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\csc.exe.config
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\csc.rsp
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\csi.exe
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\csi.exe.config
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\csi.rsp
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\System.AppContext.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\System.Console.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\vbc.exe
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\vbc.exe.config
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\vbc.rsp
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\netstandard.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.AppContext.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Collections.Concurrent.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Collections.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Collections.NonGeneric.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Collections.Specialized.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.ComponentModel.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.ComponentModel.Primitives.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Console.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Data.Common.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Diagnostics.Contracts.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Diagnostics.Debug.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Diagnostics.Process.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Diagnostics.Tools.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Diagnostics.Tracing.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Drawing.Primitives.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Dynamic.Runtime.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Globalization.Calendars.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Globalization.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Globalization.Extensions.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.IO.Compression.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.IO.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.IO.FileSystem.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.IO.IsolatedStorage.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.IO.Pipes.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Linq.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Linq.Expressions.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Linq.Parallel.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Linq.Queryable.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Net.Http.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Net.NameResolution.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Net.NetworkInformation.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Net.Ping.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Net.Primitives.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Net.Requests.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Net.Security.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Net.Sockets.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Net.WebSockets.Client.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Net.WebSockets.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.ObjectModel.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Reflection.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Reflection.Extensions.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Reflection.Primitives.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Resources.Reader.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Resources.ResourceManager.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Resources.Writer.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Runtime.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Runtime.Extensions.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Runtime.Handles.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Runtime.InteropServices.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Runtime.Numerics.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Security.Claims.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Security.Principal.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Security.SecureString.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Text.Encoding.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Text.RegularExpressions.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Threading.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Threading.Overlapped.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Threading.Tasks.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Threading.Thread.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Threading.ThreadPool.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Threading.Timer.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.ValueTuple.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Xml.ReaderWriter.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Xml.XDocument.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Xml.XmlDocument.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Xml.XmlSerializer.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Xml.XPath.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Antlr3.Runtime.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Data.v18.2.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Mobile.Core.v18.2.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Mobile.Grid.v18.2.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Printing.v18.2.Core.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Web.Bootstrap.v18.2.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Web.Resources.v18.2.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Web.v18.2.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Microsoft.AI.Web.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Newtonsoft.Json.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Web.Optimization.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\WebGrease.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Core.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Platform.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Xaml.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Office.v18.2.Core.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Images.v18.2.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxRichEdit.v18.2.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxSpreadsheet.v18.2.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Spreadsheet.v18.2.Core.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxScheduler.v18.2.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.XtraScheduler.v18.2.Core.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxSpellChecker.v18.2.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.SpellChecker.v18.2.Core.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.XtraCharts.v18.2.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Charts.v18.2.Core.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.DataAccess.v18.2.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Xpo.v18.2.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.CodeParser.v18.2.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Data.v18.2.xml
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Printing.v18.2.Core.xml
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Web.Bootstrap.v18.2.xml
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Web.v18.2.xml
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Web.Optimization.xml
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Newtonsoft.Json.xml
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Antlr3.Runtime.pdb
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Core.pdb
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Core.xml
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Xaml.pdb
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Xamarin.Forms.Xaml.xml
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Microsoft.AI.Web.xml
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Office.v18.2.Core.xml
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxRichEdit.v18.2.xml
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxSpreadsheet.v18.2.xml
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Spreadsheet.v18.2.Core.xml
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxScheduler.v18.2.xml
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.XtraScheduler.v18.2.Core.xml
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxSpellChecker.v18.2.xml
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.SpellChecker.v18.2.Core.xml
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.XtraCharts.v18.2.xml
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.DataAccess.v18.2.xml
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Xpo.v18.2.xml
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.Resources.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.Resources.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.Resources.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.Resources.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\zh-Hant\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\de\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\es\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\de\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\es\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ja\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ru\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\de\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\es\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\de\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\es\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ja\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ru\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\de\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\es\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ja\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ru\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\de\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\es\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ja\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\ru\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.csprojAssemblyReference.cache
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.dll.licenses
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.csproj.CoreCompileInputs.cache
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\obj\Debug\XamlC.stamp
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.csproj.CopyComplete
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.dll
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\obj\Debug\OnlineTraining.pdb
+C:\Users\Jeff Peng\Desktop\OnlineTraining\OnlineTraining\bin\DevExpress.Web.ASPxThemes.v18.2.dll

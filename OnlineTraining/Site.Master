@@ -1,0 +1,91 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="OnlineTraining.SiteMaster" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <title>OnlineTraining</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="Content/mobile-navbar.css" rel="stylesheet" />
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="Scripts/jquery-3.3.1.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('a[href="#navbar-more-show"], .navbar-more-overlay').on('click', function (event) {
+                event.preventDefault();
+                $('body').toggleClass('navbar-more-show');
+                if ($('body').hasClass('navbar-more-show')) {
+                    $('a[href="#navbar-more-show"]').closest('li').addClass('active');
+                } else {
+                    $('a[href="#navbar-more-show"]').closest('li').removeClass('active');
+                }
+                return false;
+            });
+        });
+    </script>
+</head>
+<body>
+    <nav class="navbar navbar-inverse navbar-fixed-top animate">
+        <div class="container navbar-more visible-xs">
+            <ul class="nav navbar-nav">
+                <li><a href="#"><span class="menu-icon glyphicon glyphicon-user"></span>我的資料</a></li>
+                <li><a href="MemberOpinion.aspx"><span class="menu-icon glyphicon glyphicon-pencil"></span>意見回饋</a></li>
+                <li><a href="#"><span class="menu-icon glyphicon glyphicon-list-alt"></span>簽核文件</a></li>
+                <li><a href="Login.aspx"><span class="menu-icon glyphicon glyphicon-log-out"></span>登出</a></li>
+            </ul>
+        </div>
+
+        <div class="container">
+            <div class="navbar-header hidden-xs">
+                <a class="navbar-brand" href="Default.aspx" id="Home"><span class="menu-icon fa fa-home">Home</span></a>
+            </div>
+            <ul class="nav navbar-nav mobile-bar">
+                <li class="visible-xs">
+                    <a href="#">
+                        <span class="menu-icon fa fa-home"></span>
+                        Home
+					</a>
+                </li>
+                <li id="li1" class="li"><a href="MyClass.aspx"><span class="menu-icon glyphicon glyphicon-user"></span>
+                    <span class="hidden-xs">我的課程</span>
+                    <span class="visible-xs">我的課程</span></a></li>
+                <li id="li2" class="li"><a href="MyTrainingRecord.aspx"><span class="menu-icon glyphicon glyphicon-th-list"></span>
+                    <span class="hidden-xs">我的訓練學習紀錄</span>
+                    <span class="visible-xs">我的紀錄</span></a></li>
+                <li id="li3" class="li"><a href="ClassInfo.aspx"><span class="menu-icon glyphicon glyphicon-pencil"></span>
+                    <span class="hidden-xs">課程查詢與報名</span>
+                    <span class="visible-xs">課程進行</span></a></li>
+                <li id="li4" class="li hidden-xs"><a href="MemberOpinion.aspx">意見回饋</a></li>
+                <li id="li5" class="li hidden-xs"><a href="#">簽核文件</a></li>
+                <li class="visible-xs">
+                    <a href="#navbar-more-show">
+                        <span class="menu-icon fa fa-bars"></span>
+                        More
+                    </a>
+                </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right hidden-xs">
+                <li id="li6" class="li"><a href="#">我的資料</a></li>
+                <li><a href="Login.aspx">登出</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="row">
+        <div class="row-fluid success">
+            <div class="col-md-12">
+                <form runat="server">
+                    <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+                </form>
+            </div>
+        </div>
+
+        <div class="row-fluid">
+            <div class="col-md-12 well text-center">
+                Footer
+            </div>
+        </div>
+    </div>
+</body>
+</html>
