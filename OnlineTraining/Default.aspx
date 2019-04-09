@@ -112,12 +112,12 @@
                             <dx:BootstrapGridViewDataColumn FieldName="VideoPath" Visible="false" />
                             <dx:BootstrapGridViewDataColumn Caption="播放課程" CssClasses-DataCell="centerText">
                                 <DataItemTemplate>
-                                    <a href="#"><span class="glyphicon glyphicon-play-circle play-video" style="font-size: 30px;" data-key="<%# Container.VisibleIndex %>"></span></a>
+                                    <a href="#"><span class="glyphicon glyphicon-play-circle play-video" style="font-size: 25px;" data-key="<%# Container.VisibleIndex %>"></span></a>
                                 </DataItemTemplate>
                             </dx:BootstrapGridViewDataColumn>
                             <dx:BootstrapGridViewDataColumn Caption="進入教室" CssClasses-DataCell="centerText">
                                 <DataItemTemplate>
-                                    <a href="#"><span class="glyphicon glyphicon-log-in into-classroom" style="font-size: 30px;" data-key="<%# Container.VisibleIndex %>"></span></a>
+                                    <a href="#"><span class="glyphicon glyphicon-log-in into-classroom" style="font-size: 25px;" data-key="<%# Container.VisibleIndex %>"></span></a>
                                 </DataItemTemplate>
                             </dx:BootstrapGridViewDataColumn>
                             <dx:BootstrapGridViewDataColumn FieldName="ClassName" Caption="最近閱讀課程名稱" CssClasses-HeaderCell="centerText" />

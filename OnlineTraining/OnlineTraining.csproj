@@ -349,7 +349,6 @@
     <Compile Include="ViewSwitcher.ascx.designer.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
     </Compile>
-    <Compile Include="WebUtility.cs" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
