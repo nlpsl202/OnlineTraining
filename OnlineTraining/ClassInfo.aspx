@@ -3,11 +3,11 @@
 <%@ Register Assembly="DevExpress.Web.Bootstrap.v18.2, Version=18.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web.Bootstrap" TagPrefix="dx" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
-    <link rel="stylesheet" type="text/css" media="screen" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" />
+    <!--<link rel="stylesheet" type="text/css" media="screen" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" />-->
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link href="//cdn.rawgit.com/Eonasdan/bootstrap-datetimepicker/e8bddc60e73c1ec2475f827be36e1957af72e2ea/build/css/bootstrap-datetimepicker.css" rel="stylesheet">
     <script type="text/javascript" src="//code.jquery.com/jquery-2.1.1.min.js"></script>
-    <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    <!--<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>-->
     <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment-with-locales.js"></script>
     <script src="//cdn.rawgit.com/Eonasdan/bootstrap-datetimepicker/e8bddc60e73c1ec2475f827be36e1957af72e2ea/src/js/bootstrap-datetimepicker.js"></script>
     <script type="text/javascript">
@@ -58,16 +58,8 @@
             margin: 0 15px;
         }
     </style>
-    <div class="container-fluid">
-        <!--<div class="row">
-            <div class="col-sm-2" style="min-height: 100%; height: 100%">
-                <!--左邊欄位
-                <div class="well text-center">所有開班課程搜尋</div>
-                <div class="well text-center">面授課程開班搜尋</div>
-                <div class="well text-center">線上課程開班搜尋</div>
-            </div>-->
-        <!--右邊欄位-->
-        <div class="col-sm-8 col-sm-offset-2">
+    <div class="row">
+        <div class="col-md-12">
             <div class="form-group row row-bordered">
                 <div class="col-sm-12">
                     <span>目前頁面 》開班申請報名--開班課程清單</span>
@@ -186,30 +178,27 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-sm-8 col-sm-offset-2">
-                    <dx:BootstrapGridView ID="BootstrapGridView1" runat="server">
-                        <ClientSideEvents Init="initMoreButton" EndCallback="initMoreButton" />
-                        <Columns>
-                            <dx:BootstrapGridViewDataColumn FieldName="ClassNo" Visible="false" />
-                            <dx:BootstrapGridViewDataColumn FieldName="OpenType" Caption="開班屬性" />
-                            <dx:BootstrapGridViewDataColumn FieldName="ClassName" Caption="開班名稱" />
-                            <dx:BootstrapGridViewDataColumn FieldName="ClassType" Caption="課程屬性" />
-                            <dx:BootstrapGridViewDataColumn FieldName="Date" Caption="課程日期" />
-                            <dx:BootstrapGridViewDataColumn FieldName="Hours" Caption="時數" />
-                            <dx:BootstrapGridViewDataColumn FieldName="Organizer" Caption="主辦單位" />
-                            <dx:BootstrapGridViewDataColumn FieldName="StartType" Visible="false" />
-                            <dx:BootstrapGridViewDataColumn Caption="">
-                                <DataItemTemplate>
-                                    <button type="button" class='<%# DataBinder.Eval(Container.DataItem, "StartType").ToString() == "1" ? "hidden" : String.Empty %> btn btn-default more-info' data-key="<%# Container.VisibleIndex %>">申請</button>
-                                    <button type="button" class='<%# DataBinder.Eval(Container.DataItem, "StartType").ToString() == "2" ? "hidden" : String.Empty %> btn btn-default more-info' data-key="<%# Container.VisibleIndex %>">進入教室</button>
-                                </DataItemTemplate>
-                            </dx:BootstrapGridViewDataColumn>
-                        </Columns>
-                    </dx:BootstrapGridView>
-                </div>
-            </div>
+
+            <dx:BootstrapGridView ID="BootstrapGridView1" runat="server">
+                <ClientSideEvents Init="initMoreButton" EndCallback="initMoreButton" />
+                <Columns>
+                    <dx:BootstrapGridViewDataColumn FieldName="ClassNo" Visible="false" />
+                    <dx:BootstrapGridViewDataColumn FieldName="OpenType" Caption="開班屬性" />
+                    <dx:BootstrapGridViewDataColumn FieldName="ClassName" Caption="開班名稱" />
+                    <dx:BootstrapGridViewDataColumn FieldName="ClassType" Caption="課程屬性" />
+                    <dx:BootstrapGridViewDataColumn FieldName="Date" Caption="課程日期" />
+                    <dx:BootstrapGridViewDataColumn FieldName="Hours" Caption="時數" />
+                    <dx:BootstrapGridViewDataColumn FieldName="Organizer" Caption="主辦單位" />
+                    <dx:BootstrapGridViewDataColumn FieldName="StartType" Visible="false" />
+                    <dx:BootstrapGridViewDataColumn Caption="">
+                        <DataItemTemplate>
+                            <button type="button" class='<%# DataBinder.Eval(Container.DataItem, "StartType").ToString() == "1" ? "hidden" : String.Empty %> btn btn-default more-info' data-key="<%# Container.VisibleIndex %>">申請</button>
+                            <button type="button" class='<%# DataBinder.Eval(Container.DataItem, "StartType").ToString() == "2" ? "hidden" : String.Empty %> btn btn-default more-info' data-key="<%# Container.VisibleIndex %>">進入教室</button>
+                        </DataItemTemplate>
+                    </dx:BootstrapGridViewDataColumn>
+                </Columns>
+                <SettingsPager PageSize="7" />
+            </dx:BootstrapGridView>
         </div>
     </div>
-    <!--</div>-->
 </asp:Content>
