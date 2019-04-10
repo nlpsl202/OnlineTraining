@@ -5,9 +5,6 @@
 <%@ Register assembly="DevExpress.Web.v18.2, Version=18.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" namespace="DevExpress.Web" tagprefix="dx" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
-    <link href="Content/bootstrap.min.css" rel="stylesheet" />
-    <script src="Scripts/jquery-3.3.1.min.js"></script>
-    <script src="Scripts/bootstrap.min.js"></script>
     <script type="text/javascript">
         function initMoreButton(s, e) {
             $(s.GetMainElement()).find(".play-video").click(function () {
@@ -51,7 +48,7 @@
     </script>
     <style>
         p {
-            font-size: 20px;
+            font-size: 15px;
         }
 
         .centerText {
@@ -71,9 +68,8 @@
             margin-bottom:0;
         }
     </style>
-    <div class="container">
         <div class="row">
-            <div class="col-sm-8 col-sm-offset-2">
+            <div class="col-md-12">
                 <p><%:Session["MemberName"]%>  您好!</p>
 
                 <ul class="nav nav-tabs">
@@ -127,5 +123,4 @@
                 </div>
             </div>
         </div>
-    </div>
 </asp:Content>
