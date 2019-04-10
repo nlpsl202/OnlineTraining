@@ -157,6 +157,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Data\mail.txt" />
+    <Content Include="ArchiveDocList.aspx" />
     <Content Include="ClassInfo.aspx" />
     <Content Include="Classroom.aspx" />
     <Content Include="Classroom_backup.aspx" />
@@ -190,8 +191,11 @@
     <Content Include="Login.aspx" />
     <Content Include="MemberOpinion.aspx" />
     <Content Include="MyClass.aspx" />
+    <Content Include="MyClass_End.aspx" />
+    <Content Include="MyInfo.aspx" />
     <Content Include="MyTrainingRecord.aspx" />
     <Content Include="players\Chapter1_video.mp4" />
+    <Content Include="RejectDocList.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
@@ -223,6 +227,7 @@
     <Content Include="Scripts\WebForms\WebUIValidation.js" />
     <Content Include="SignUp.aspx" />
     <Content Include="Site.Master" />
+    <Content Include="TrackDocList.aspx" />
     <Content Include="ViewSwitcher.ascx" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />
@@ -231,6 +236,13 @@
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="ArchiveDocList.aspx.cs">
+      <DependentUpon>ArchiveDocList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ArchiveDocList.aspx.designer.cs">
+      <DependentUpon>ArchiveDocList.aspx</DependentUpon>
+    </Compile>
     <Compile Include="ClassInfo.aspx.cs">
       <DependentUpon>ClassInfo.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -306,6 +318,20 @@
     <Compile Include="MyClass.aspx.designer.cs">
       <DependentUpon>MyClass.aspx</DependentUpon>
     </Compile>
+    <Compile Include="MyClass_End.aspx.cs">
+      <DependentUpon>MyClass_End.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MyClass_End.aspx.designer.cs">
+      <DependentUpon>MyClass_End.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MyInfo.aspx.cs">
+      <DependentUpon>MyInfo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MyInfo.aspx.designer.cs">
+      <DependentUpon>MyInfo.aspx</DependentUpon>
+    </Compile>
     <Compile Include="MyTrainingRecord.aspx.cs">
       <DependentUpon>MyTrainingRecord.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -314,6 +340,13 @@
       <DependentUpon>MyTrainingRecord.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RejectDocList.aspx.cs">
+      <DependentUpon>RejectDocList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RejectDocList.aspx.designer.cs">
+      <DependentUpon>RejectDocList.aspx</DependentUpon>
+    </Compile>
     <Compile Include="SignUp.aspx.cs">
       <DependentUpon>SignUp.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -341,6 +374,13 @@
     </Compile>
     <Compile Include="Site_Classroom.Master.designer.cs">
       <DependentUpon>Site_Classroom.Master</DependentUpon>
+    </Compile>
+    <Compile Include="TrackDocList.aspx.cs">
+      <DependentUpon>TrackDocList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TrackDocList.aspx.designer.cs">
+      <DependentUpon>TrackDocList.aspx</DependentUpon>
     </Compile>
     <Compile Include="ViewSwitcher.ascx.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
