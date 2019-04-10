@@ -162,6 +162,7 @@
     <Content Include="Classroom.aspx" />
     <Content Include="Classroom_backup.aspx" />
     <Content Include="Classroom_Detail.aspx" />
+    <Content Include="Classroom_Record.aspx" />
     <Content Include="ClassVideo.aspx" />
     <Content Include="Content\bootsnipp.min.css" />
     <Content Include="Content\bootstrap-theme.css" />
@@ -270,6 +271,13 @@
     </Compile>
     <Compile Include="Classroom_Detail.aspx.designer.cs">
       <DependentUpon>Classroom_Detail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Classroom_Record.aspx.cs">
+      <DependentUpon>Classroom_Record.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Classroom_Record.aspx.designer.cs">
+      <DependentUpon>Classroom_Record.aspx</DependentUpon>
     </Compile>
     <Compile Include="ClassVideo.aspx.cs">
       <DependentUpon>ClassVideo.aspx</DependentUpon>
