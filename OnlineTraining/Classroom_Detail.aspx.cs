@@ -25,8 +25,6 @@ namespace OnlineTraining
                 sqlObj.SqlConn.Open();
                 SqlDataAdapter da = new SqlDataAdapter(sqlObj.SqlCmd);
                 da.Fill(dt);
-                ASPxVerticalGrid1.DataSource = dt;
-                ASPxVerticalGrid1.DataBind();
             }
             catch (Exception ex)
             {

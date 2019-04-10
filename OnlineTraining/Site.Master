@@ -8,6 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!--<link href="Content/mobile-navbar.css" rel="stylesheet" />-->
     <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <!--<link href="Content/bootsnipp.min.css" rel="stylesheet" />-->
     <script src="Scripts/jquery-3.3.1.min.js"></script>
     <script src="Scripts/bootstrap.min.js"></script>
     <script type="text/javascript">
@@ -22,6 +23,10 @@
                 }
                 return false;
             });
+
+            $('li').click(function () {
+                $('.navbar > li').removeClass("active");
+            });
         });
     </script>
     <style>
@@ -33,7 +38,7 @@
 
         /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
         .row.content {
-            height: 650px
+            height: 800px;
         }
 
         /* Set gray background color and 100% height */
@@ -72,43 +77,55 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">AVTECH</a>
+                <a class="navbar-brand" href="Default.aspx">AVTECH</a>
             </div>
             <div class="collapse navbar-collapse" id="myNavbar">
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="#">首頁</a></li>
-                    <li><a href="#">我的課程</a></li>
-                    <li><a href="#">我的訓練學習紀錄</a></li>
-                    <li><a href="ClassInfo.aspx">課程查詢與報名</a></li>
-                    <li><a href="#">意見回饋</a></li>
-                    <li><a href="#">簽核文件</a></li>
+                    <li id="li_Default"><a href="Default.aspx">首頁</a></li>
+                    <li id="li_MyClass"><a href="MyClass.aspx">我的課程</a></li>
+                    <li id="li_MyTrainingRecord"><a href="MyTrainingRecord.aspx">我的訓練學習紀錄</a></li>
+                    <li id="li_ClassInfo"><a href="ClassInfo.aspx">課程查詢與報名</a></li>
+                    <li id="li_MemberOpinion"><a href="MemberOpinion.aspx">意見回饋</a></li>
+                    <li id="li_DocList"><a href="#" data-toggle="dropdown" aria-expanded="true">簽核文件
+                        <span class="caret"></span>
+                    </a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="RejectDocList.aspx">被退回文件 <span class="pull-right glyphicon glyphicon-edit"></span></a></li>
+                            <li><a href="TrackDocList.aspx">文件追蹤 <span class="pull-right glyphicon glyphicon-edit"></span></a></li>
+                            <li><a href="ArchiveDocList.aspx">歸檔文件 <span class="pull-right glyphicon glyphicon-edit"></span></a></li>
+                        </ul>
+                    </li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="#">我的資料</a></li>
-                    <li><a href="#"><span class="glyphicon glyphicon-log-in"></span>登出</a></li>
+                    <li id="li_MyInfo"><a href="MyInfo.aspx"><span class="glyphicon glyphicon-user"></span>我的資料</a></li>
+                    <li><a href="Login.aspx"><span class="glyphicon glyphicon-log-out"></span>登出</a></li>
                 </ul>
             </div>
         </div>
     </nav>
 
-    <div class="container-fluid text-center">
-        <div class="row content">
-            <div class="col-md-2 sidenav">
-            </div>
+    <form runat="server">
+        <div class="container-fluid text-center">
+            <div class="row content">
+                <div class="col-md-2 sidenav">
+                    <asp:ContentPlaceHolder ID="LeftContent" runat="server" />
+                </div>
 
-            <div class="col-md-8 text-left" style="margin-top:15px;">
-                <form runat="server">
+                <div class="col-md-8 text-left" style="margin-top: 15px;" id="main_content">
                     <asp:ContentPlaceHolder ID="MainContent" runat="server" />
-                </form>
-            </div>
+                </div>
 
-            <div class="col-md-2 sidenav">
+                <div class="col-md-2 sidenav">
+
+                    <asp:ContentPlaceHolder ID="RightContent" runat="server" />
+
+                </div>
             </div>
         </div>
-    </div>
+    </form>
 
     <footer class="container-fluid text-center">
-        <p>Footer Text</p>
+        <p>© 2019 Powered by AVTECH</p>
     </footer>
     <!--<nav class="navbar navbar-inverse navbar-fixed-top animate">
         <div class="container navbar-more visible-xs">

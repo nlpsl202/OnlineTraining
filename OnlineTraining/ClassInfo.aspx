@@ -11,6 +11,10 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment-with-locales.js"></script>
     <script src="//cdn.rawgit.com/Eonasdan/bootstrap-datetimepicker/e8bddc60e73c1ec2475f827be36e1957af72e2ea/src/js/bootstrap-datetimepicker.js"></script>
     <script type="text/javascript">
+        $(document).ready(function () {
+            $('#li_ClassInfo').addClass("active");
+        });
+
         $(function () {
             $('#datetimepickerS').datetimepicker({
                 format: 'YYYY/MM/DD'
@@ -22,23 +26,53 @@
         });
 
         function initMoreButton(s, e) {
-            $(s.GetMainElement()).find(".more-info").click(function () {
+            $(s.GetMainElement()).find(".into-classroom").click(function () {
+
                 if (s.InCallback()) return;
                 var $btn = $(this);
                 s.GetRowValues($btn.attr("data-key"), 'ClassNo', function (values) {
-                    var para = { 'ClassNo': values, 'BackPage': "ClassInfo.aspx" };
+                    var para = { 'ClassNo': values };
                     $.ajax({
                         type: "POST",
-                        url: "ClassInfo.aspx/IntoClassroom",
+                        url: "ClassInfo.aspx/CheckStudent",
                         data: JSON.stringify(para),
                         contentType: "application/json; charset=utf-8",
                         dataType: "json",
                         success: function (response) {
-                            window.location = "Classroom.aspx";
+                            if (response.d == "isStudent") {
+                                para = { 'ClassNo': values, 'BackPage': "ClassInfo.aspx" };
+                                $.ajax({
+                                    type: "POST",
+                                    url: "ClassInfo.aspx/IntoClassroom",
+                                    data: JSON.stringify(para),
+                                    contentType: "application/json; charset=utf-8",
+                                    dataType: "json",
+                                    success: function (response) {
+                                        window.location = "Classroom.aspx";
+                                    }
+                                });
+                            } else {
+                                if (confirm('您尚未成為本課程學員，請問是否要成為學員?')) {
+                                    para = { 'ClassNo': values, 'BackPage': "ClassInfo.aspx" };
+                                    $.ajax({
+                                        type: "POST",
+                                        url: "ClassInfo.aspx/BecomeStudent",
+                                        data: JSON.stringify(para),
+                                        contentType: "application/json; charset=utf-8",
+                                        dataType: "json",
+                                        success: function (response) {
+                                            window.location = "Classroom.aspx";
+                                        }
+                                    });
+                                } else {
+                                    return false;
+                                }
+                            }
                         }
                     });
 
                 });
+
             });
         }
     </script>
@@ -192,8 +226,8 @@
                     <dx:BootstrapGridViewDataColumn FieldName="StartType" Visible="false" />
                     <dx:BootstrapGridViewDataColumn Caption="">
                         <DataItemTemplate>
-                            <button type="button" class='<%# DataBinder.Eval(Container.DataItem, "StartType").ToString() == "1" ? "hidden" : String.Empty %> btn btn-default more-info' data-key="<%# Container.VisibleIndex %>">申請</button>
-                            <button type="button" class='<%# DataBinder.Eval(Container.DataItem, "StartType").ToString() == "2" ? "hidden" : String.Empty %> btn btn-default more-info' data-key="<%# Container.VisibleIndex %>">進入教室</button>
+                            <button type="button" class='<%# DataBinder.Eval(Container.DataItem, "StartType").ToString() == "direct" ? "hidden" : String.Empty %> btn btn-default apply-class' data-key="<%# Container.VisibleIndex %>">申請</button>
+                            <button type="button" class='<%# DataBinder.Eval(Container.DataItem, "StartType").ToString() == "apply" ? "hidden" : String.Empty %> btn btn-default into-classroom' data-key="<%# Container.VisibleIndex %>">進入教室</button>
                         </DataItemTemplate>
                     </dx:BootstrapGridViewDataColumn>
                 </Columns>

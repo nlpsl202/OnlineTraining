@@ -53,5 +53,70 @@ namespace OnlineTraining
                 return ex.Message;
             }
         }
+
+        [WebMethod]
+        public static string BecomeStudent(string ClassNo, string BackPage)
+        {
+            string sErrMsg = string.Empty;
+            DBUtility sqlObj = null;
+            sqlObj = new DBUtility();
+            sqlObj.StoreProcedureName = "SP_UI_MemberClass";
+            sqlObj.SetupSqlCommand(ref sErrMsg);
+            sqlObj.SqlCmd.Parameters["@Account"].Value = HttpContext.Current.Session["Account"].ToString();
+            sqlObj.SqlCmd.Parameters["@ClassNo"].Value = ClassNo;
+            try
+            {
+                sqlObj.SqlConn.Open();
+                sqlObj.SqlCmd.ExecuteNonQuery();
+                HttpContext.Current.Session["ClassNo"] = ClassNo;
+                HttpContext.Current.Session["ClassroomBackPage"] = BackPage;
+                return "success";
+            }
+            catch (Exception ex)
+            {
+                return ex.Message;
+            }
+            finally
+            {
+                sqlObj.SqlConn.Close();
+            }
+        }
+
+        [WebMethod]
+        public static string CheckStudent(string ClassNo)
+        {
+            string sErrMsg = string.Empty;
+            DataTable dataTable = new DataTable();
+            DBUtility sqlObj = null;
+            sqlObj = new DBUtility();
+            sqlObj.StoreProcedureName = "SP_Qry_MemberClass";
+            sqlObj.SetupSqlCommand(ref sErrMsg);
+            sqlObj.SqlCmd.Parameters["@Account"].Value = HttpContext.Current.Session["Account"].ToString();
+            sqlObj.SqlCmd.Parameters["@ClassNo"].Value = ClassNo;
+            sqlObj.SqlCmd.Parameters["@XOLTP"].Value = 0;
+            try
+            {
+                sqlObj.SqlConn.Open();
+                SqlDataAdapter da = new SqlDataAdapter(sqlObj.SqlCmd);
+                da.Fill(dataTable);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            finally
+            {
+                sqlObj.SqlConn.Close();
+            }
+
+            if (dataTable.Rows.Count > 0)
+            {
+                return "isStudent";
+            }
+            else
+            {
+                return "notStudent";
+            }
+        }
     }
 }
