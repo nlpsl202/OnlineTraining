@@ -4,6 +4,43 @@
     <script type="text/javascript">
         $(document).ready(function () {
             $('#li_MyInfo').addClass("active");
+
+            $("#Reset_btn").click(function () {
+                $("input[type=password]").val("");
+            });
+
+            var totalTxb = $('.txb').length;
+            $("#Submit_btn").click(function () {
+                for (var i = 0; i < totalTxb; i++) {
+                    if ($('.txb:eq(' + i + ')').val() == '') {
+                        alert('尚有未輸入的資料!');
+                        return false;
+                    }
+                }
+
+                if ($('#NewPsw_txb').val() != $('#ConfirmPsw_txb').val()) {
+                    alert('密碼與確認密碼不相符!');
+                    return false;
+                }
+
+                var para = { 'OldPassword': $('#OldPsw_txb').val(),'NewPassword': $('#NewPsw_txb').val() };
+
+                $.ajax({
+                    type: "POST",
+                    url: "MyInfo.aspx/ChangePassword",
+                    data: JSON.stringify(para),
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+                    success: function (response) {
+                        alert(response.d);
+                        if (response.d.indexOf("成功") >= 0) {
+                            window.location = "Default.aspx";
+                        } else {
+                            return false;
+                        }
+                    }
+                });
+            });
         });
     </script>
     <style>
@@ -64,7 +101,7 @@
                         <label>舊密碼：</label>
                     </div>
                     <div class="col-md-2">
-                        <input id="OldPsw_txb" class="form-control" type="password" />
+                        <input id="OldPsw_txb" class="form-control txb" type="password" />
                     </div>
                 </div>
 
@@ -73,7 +110,7 @@
                         <label>新密碼：</label>
                     </div>
                     <div class="col-md-2">
-                        <input id="NewPsw_txb" class="form-control" type="password" />
+                        <input id="NewPsw_txb" class="form-control txb" type="password" />
                     </div>
                 </div>
 
@@ -82,7 +119,7 @@
                         <label>確認密碼：</label>
                     </div>
                     <div class="col-md-2">
-                        <input id="ConfirmPsw_txb" class="form-control" type="password" />
+                        <input id="ConfirmPsw_txb" class="form-control txb" type="password" />
                     </div>
                 </div>
 

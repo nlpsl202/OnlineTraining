@@ -12,7 +12,7 @@
     <script type="text/javascript">
         $(document).ready(function () {
             $("#Reset_btn").click(function () {
-                $(this).closest('form').find("input[type=text], textarea").val("");
+                $(".txb").val("");
             });
             $("#Back_btn").click(function () {
                 window.location = 'Login.aspx';

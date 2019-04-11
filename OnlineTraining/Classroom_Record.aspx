@@ -3,27 +3,31 @@
 <%@ Register Assembly="DevExpress.Web.v18.2, Version=18.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web" TagPrefix="dx" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+    <script src="https://unpkg.com/vue/dist/vue.js"></script>
+    <script src="https://cdn.staticfile.org/vue-resource/1.5.1/vue-resource.min.js"></script>
     <script type="text/javascript">
         $(document).ready(function () {
-            $("#tab").click(function () {
-                $("#tab").addClass("active")
-                $("#tab2").removeClass("active")
-            });
-
-            $("#tab2").click(function () {
-                $("#tab").removeClass("active")
-                $("#tab2").addClass("active")
+            $.ajax({
+                type: "POST",
+                url: "Classroom_Record.aspx/GetRecordInfo",
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function (response) {
+                    new Vue({
+                        el: '#RecordInfo',
+                        data: {
+                            recordInfos: JSON.parse(response.d)
+                        },
+                    });
+                }
             });
         });
     </script>
     <style>
-        .nav-tabs {
-            border-bottom: none;
+        table > tbody > tr > td {
+            height: 50px;
+            width: 300px;
         }
-
-            .nav-tabs > li {
-                margin-bottom: 0;
-            }
     </style>
     <div class="row">
         <div class="col-md-12">
@@ -33,12 +37,66 @@
                 </div>
             </div>
 
-            <ul class="nav nav-pills">
-                <li id="tab" class="active"><a href="#">開班資訊</a></li>
-                <li id="tab2"><a href="#">通過條件</a></li>
-            </ul>
+            <div class="well form-group" id="RecordInfo">
+                <p>學習紀錄清單</p>
 
-            <div>
+                <table class="table-bordered">
+                    <tbody>
+                        <tr style="margin-top: 10px;">
+                            <th>學習活動</th>
+                            <th>成績</th>
+                            <th>通過條件</th>
+                            <th>佔總分比例</th>
+                            <th>通過狀態</th>
+                            <th>進行活動時間</th>
+                        </tr>
+
+                        <tr>
+                            <td>課程總分</td>
+                            <td></td>
+                            <td></td>
+                            <td>100%</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+
+                        <tr>
+                            <td>{{recordInfos[0].ExamName}}</td>
+                            <td>{{recordInfos[0].ExamScore}}</td>
+                            <td>{{recordInfos[0].ExamPassScore}}</td>
+                            <td></td>
+                            <td>{{recordInfos[0].ClassPass}}</td>
+                            <td>{{recordInfos[0].ExamFinishTime}}</td>
+                        </tr>
+
+                        <tr>
+                            <td>上課表現</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+
+                        <tr>
+                            <td>總閱讀時數</td>
+                            <td>{{recordInfos[0].TotalReadTime}}</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+
+                        <tr v-for="item in recordInfos">
+                            <td>{{item.ChapterName}}</td>
+                            <td>{{item.ReadTime}}</td>
+                            <td>{{item.PassCondition}}</td>
+                            <td></td>
+                            <td>{{item.ChapterPass}}</td>
+                            <td>{{item.LastReadTime}}</td>
+                        </tr>
+                    </tbody>
+                </table>
             </div>
         </div>
     </div>

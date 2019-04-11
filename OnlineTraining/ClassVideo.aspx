@@ -56,20 +56,24 @@
     </script>
 </head>
 <body>
+
+    <form id="form1" runat="server">
     <nav class="navbar navbar-fixed-top navbar-bootsnipp animate" role="navigation" style="z-index: 9999999">
         <div class="row">
             <div class="col-sm-4 col-sm-offset-5">
                 <ul class="nav navbar-nav">
                     <li class="li">閱讀時間：</li>
-                    <li class="li"><span id="TimeClock"></span></li>
                     <li class="li">
-                        <button type="button" class="btn btn-primary btn-block" id="Back_btn">結束閱讀並紀錄時數</button></li>
+                        <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label></li>
+                    <li class="li">
+                        <button type="button" class="btn btn-primary btn-block" id="Back_btn">結束閱讀並紀錄時數<asp:Timer ID="Timer1" runat="server" OnTick="Timer1_Tick">
+                            </asp:Timer>
+                        </button></li>
                 </ul>
             </div>
         </div>
     </nav>
 
-    <form id="form1" runat="server">
         <div id="thePlayer"></div>
         <script type="text/javascript">
             jwplayer("thePlayer").setup({
@@ -79,6 +83,8 @@
                 width: "800px"
             });
         </script>
+        <asp:ScriptManager ID="ScriptManager1" runat="server">
+        </asp:ScriptManager>
     </form>
 </body>
 </html>

@@ -4,6 +4,30 @@
     <script type="text/javascript">
         $(document).ready(function () {
             $('#li_MemberOpinion').addClass("active");
+
+            $("#Submit_btn").click(function () {
+                if ($('#Opinion').val() == '') {
+                    alert('請輸入內容!');
+                    return false;
+                }
+
+                var para = { 'Body': $('#Opinion_Body').val() };
+                $.ajax({
+                    type: "POST",
+                    url: "MemberOpinion.aspx/InsertToOpinion",
+                    data: JSON.stringify(para),
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+                    success: function (response) {
+                        alert("送出意見回饋成功！");
+                        window.location = "Default.aspx";
+                    }
+                });
+            });
+
+            $("#Reset_btn").click(function () {
+                $('#Opinion_Body').val("");
+            });
         });
     </script>
     <style>
@@ -28,7 +52,7 @@
 
             <div class="form-group green-border-focus">
                 <label for="exampleFormControlTextarea5">回饋與建議</label>
-                <textarea class="form-control" id="exampleFormControlTextarea5" rows="3"></textarea>
+                <textarea class="form-control" id="Opinion_Body" rows="3"></textarea>
             </div>
 
             <div class="form-group row">
